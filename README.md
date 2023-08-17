@@ -15,3 +15,5 @@ I could have added few more features and put up a much better sophisticated UI.
 
 Frameworks used- Bootsrtap, Material UI 
 libraries- react router dom, redux, and api integration to fetch data.
+
+View demo at - https://gsiv23-priya.netlify.app/
